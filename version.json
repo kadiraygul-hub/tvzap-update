@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.0.2/tvzap-latest.apk",
-  "releaseNotes": "Player buffer iyileştirmeleri, D-Pad düzeltmeleri ve TV uyumluluk güncellemeleri."
+  "versionCode": 3,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.0.3/tvzap-latest.apk",
+  "releaseNotes": "Canlı TV performans iyileştirmeleri, player düzeltmeleri ve genel stabilite güncellemeleri."
 }
