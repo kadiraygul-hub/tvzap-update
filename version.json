@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.0.4/tvzap-latest.apk",
-  "releaseNotes": "Supabase license system added. Time-limited code login system added. Numeric keyboard support added. General bug fixes."
+  "versionCode": 5,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.0.5/TVZap_v1.0.5_LICENSE_OK.apk",
+  "releaseNotes": "Supabase license URL fixed. Server license validation tested successfully. Login button visibility fixed on compact screens. Auto update notification system added. General stability improvements."
 }
