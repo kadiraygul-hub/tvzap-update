@@ -1,6 +1,6 @@
 {
   "versionCode": 4,
-  "versionName": 1.0.4,
+  "versionName": "1.0.4",
   "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.0.4/tvzap-latest.apk",
-  "releaseNotes": "Canlı TV performans iyileştirmeleri, player düzeltmeleri ve genel stabilite güncellemeleri."
+  "releaseNotes": "Supabase license system added. Time-limited code login system added. Numeric keyboard support added. General bug fixes."
 }
