@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.0.7/tvzap-latest.apk",
-  "releaseNotes": "TVZap v1.0.7 yayınlandı. Performans ve stabilite iyileştirmeleri yapıldı."
+  "versionCode": 8,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.0.8/tvzap-latest.apk",
+  "releaseNotes": "TVZap v1.0.8 yayınlandı. Güncelleme kontrolü, indirme sistemi, performans ve kararlılık iyileştirmeleri yapıldı."
 }
