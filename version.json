@@ -1,6 +1,6 @@
 {
-  "versionCode": 1.2,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.2/tvzap-latest.apk",
-  "releaseNotes": "TVZap v1.2 yayınlandı. Stalker/MAG portal (Portal + MAC) desteği eklendi, Worker proxy adresi güncellendi, oynatma ve tamponlama iyileştirmeleri yapıldı."
+  "versionCode": 10300,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/kadiraygul-hub/tvzap-update/releases/download/v1.3/tvzap-latest.apk",
+  "releaseNotes": "TVZap v1.3 yayınlandı. Performans, oynatma kararlılığı ve genel kullanıcı deneyimi iyileştirildi."
 }
